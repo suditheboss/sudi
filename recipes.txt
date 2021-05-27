@@ -4,4 +4,7 @@ maggi
 Samosa
 Idli Sambhar
 
+Beans
+Pizza
+
 thank you!!
